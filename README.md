@@ -1,1 +1,1 @@
-SF crime data analyse practice using pandas.
+SF crime data analyses practice using pandas.
